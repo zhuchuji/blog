@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "zhuchuji <1012536778@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/zhuchuji/blog",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-ui-router": "^0.3.2",
+    "jquery": "^3.1.1",
+    "normalize-css": "^5.0.0",
+    "bootstrap": "^3.3.7"
+  }
+}

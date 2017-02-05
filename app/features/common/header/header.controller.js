@@ -1,0 +1,5 @@
+headerController.$inject = [];
+
+function headerController() {
+
+}
